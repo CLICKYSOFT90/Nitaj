@@ -1,0 +1,70 @@
+<?php
+
+
+return [
+    'Projects' => 'Projects',
+    'Filters' => 'Filters',
+    'sorts' => 'sorts',
+    'Owned' => 'Owned',
+    'Sort by' => 'Sort by',
+    'Assets' => 'Assets',
+    'Live Project' => 'Live Project',
+    'Funded' => 'Funded',
+    'Type in to Search' => 'Type in to Search',
+    'Developer' => 'Developer',
+    'PMO' => 'PMO',
+    'Owner' => 'Owner',
+
+
+    'List of Projects' => 'Projects',
+    'ADD NEW' => 'ADD NEW',
+    'Project Name' => 'Project Name',
+    'Project Type' => 'Project Type',
+    'Funding Requires' => 'Funding Required',
+    'Investment Period' => 'Investment Period',
+    'No Of Shares' => 'No of Shares',
+    'Added On' => 'Added on',
+    'Status' => 'Status',
+
+
+    'Investment Target' => 'Investment Target',
+    'Projected ROI' => 'Projected ROI',
+    'Price per Share' => 'Unit Price',
+    'Minimum Investment' => 'Minimum Investment',
+    'INVEST' => 'INVEST',
+    'Days Remaining' => 'Days Remaining',
+    'funded' => 'funded',
+    'Project Overview' => 'Project Overview',
+    'About the Property' => 'About the Property',
+    'Invesment info' => 'Investment info',
+    'Projected Dividend Yield' => 'Projected Dividend Yield',
+    'Dividend Frequency' => 'Dividend Frequency',
+    'No.of Investors' => 'No.of Investors',
+    'Year Expected Return' => 'Year Expected Return',
+    'Gross Income' => 'Gross Income',
+    'Net Income' => 'Net Income',
+    'Hold Period' => 'Hold Period',
+    'Location' => 'Location',
+    'STAKE HOLDERS' => 'STAKE HOLDERS',
+    'Investment Documents' => 'Investment Documents',
+    'DOWNLOAD' => 'DOWNLOAD',
+    'Investment Info' => 'Investment Info',
+    'Offer to invest in' => 'Offer to invest in',
+    'Investment Amount' => 'Investment Amount',
+    'minimum investment commitment' => 'minimum investment commitment',
+    'of commitment required to close' => 'of commitment required to close',
+    'Share Value' => 'Share Value',
+    'Share' => 'Share',
+    'By clicking the submit button you are agreeing to the following:' => 'By clicking the submit button you are agreeing to the following:',
+    'I acknowledge' => 'I acknowledge that I am providing the project sponsor an indication of my interest to invest in this project based on my review of the materials made available and by conducting my own research before making this investment.',
+    'I have read' => 'I have read and understood the terms & conditions to be able to invest in this opportunity.',
+    'Cancel' => 'Cancel',
+
+
+
+    'You do not have enough amount in your wallet' => 'You do not have enough amount in your wallet.',
+    'You cannot purchased more than total no of shares' => 'You cannot purchased more than total no of shares',
+    'You cannot invest more than' => 'Please upgrade your account to invest more than',
+    'Investment amount should be greater than minimum amount' => 'Investment amount should be greater than minimum amount.',
+];
+

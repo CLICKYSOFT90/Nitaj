@@ -1,0 +1,1645 @@
+/*PROJECT ADD NEW 4 PAGE CSS BEGIN*/
+/* .class-hide {display: block;} */
+/* .class-show {display: none;} */
+.mr_ahm {
+    font-size: 21px;
+    color: #4C4C55;
+    font-weight: 500;
+}
+.tags-listing .tags-list-item {display: inline-block;padding: 0 30px 0 0;}
+.tags-list-item .tags-list-text {font-size: 20px;color:#4C4C55;}
+.tags-list-text .tag-icon {color:#8D8B8B;}
+.align-new{margin-right:-5px;}
+/* .tick-1{text-align: right;} */
+.tick-1 button{margin-right: 0px;}
+.pro-info {padding-bottom: 10px;font-size: 30px;color: #4C4C55;font-weight: 500;margin-bottom: 12px;}
+/* .pro-sec {padding: 0 70px 0;} */
+.input-options label {display: block;font-weight: 500;
+   color: #4C4C55;margin-bottom: 10px;margin-top: 20px;}
+.input-options input {font-size: 13px;font-weight: 400;color: #000;width: 100%;outline: none;border: 1px solid #E9E9F0;padding: 12px 10px;border-width: 0px 0px 1px;}
+.input-options input::placeholder {color: #8D8B8B;}
+/* .input-options select option{color:#8D8B8B!important;} */
+/* .input-options select:invalid { */
+    /* color: green;
+  } */
+  /* .input-options select:valid { color:black; } */
+  .for-td-alignment .input-options label{text-align: left;}
+.input-options select {font-size: 13px;
+    font-weight: 400;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid#E9E9F0;
+    padding: 12px 10px;
+    border-width: 0px 0px 1px;}
+.dashboard-buttons {text-align: end;border-bottom: 1px solid #00000014;padding-bottom: 45px; margin-top: 30px;}
+.dashboard-reset {font-size: 14px;font-weight: 600;color: #8D8B8B;background-color: transparent;border-radius: 25px;padding: 9px 42px;display: inline-block;border: 1px solid #8D8B8B;text-align: center;margin-right: 10px;}
+.dashboard-save {font-size: 14px;font-weight: 700;color: #fff; background-image: linear-gradient(to bottom, #3ea99d, #2daf97, #22b48f, #23b983, #30bd74);border-radius: 25px;border: 0;padding: 12px 50px;display: inline-block;text-align: center;}
+/* .pro-detail-sec {padding: 0 70px 0;} */
+.pro-detail{padding-bottom: 10px;color: #4C4C55;
+    font-weight: 500;margin: 30px 0 12px;font-size: 30px;}
+    .pro-edit-uploads .table th, .table td{vertical-align: unset !important;}
+/* .pro-introduction {padding: 0 70px 0;} */
+.text-area-box textarea {font-size: 12px;color: #8D8B8B;width: 100%;outline: none;border: 1px solid #D9D5D5;padding: 12px 20px;resize: none;}
+.input-options textarea::placeholder {color: #8D8B8B;}
+.pro-uploads {padding: 0 0px 0;}
+.pro-uploads .table th, .table td {border-top: 0;vertical-align: bottom;}
+.pro-uploads .table th {border-bottom: 0;}
+.dashboard-edit {font-size: 14px;font-weight: 700;color: #fff;background-color: #C8C8CC;border-radius: 25px;border: 0;padding: 12px 38px;display: inline-block;text-align: center;margin-right: 10px;}
+.pro-uploads .table label {
+    display: block;
+    margin-left: 10px;
+    color: #4C4C55;
+    font-size: 13px;
+    font-weight: 500;
+}
+.pro-uploads .table input {
+    font-size: 12px;
+    font-weight: 400;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid #E9E9F0;
+    padding: 12px 10px;
+    border-width: 0px 0px 1px;
+}
+.pro-uploads .table select {
+    font-size: 12px;
+    font-weight: 400;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid#E9E9F0;
+    padding: 12px 10px;
+    border-width: 0px 0px 1px;
+}
+.pro-uploads .table td {padding: 60px 0px 0 0;}
+.add-more-button {font-size: 14px;font-weight: 700;color: #5A51DE !important;background-color: transparent;border-radius: 25px;border: 1px solid #0003;padding: 12px 28px;display: inline-block;text-align: center;}
+.add-button-main {text-align: center;margin-top: 63px;}
+.add-more-button i {color: #000c;font-size: 10px;font-weight: 400;margin-left: 4px;}
+.pro-location {padding: 36px 0px 0px;}
+.google-map {margin: 40px 0 60px;}
+.pro-funding-info {padding: 20px 0 0;}
+.pro-info {padding-bottom: 10px;font-size: 30px;color: #4C4C55;font-weight: 500;margin-bottom: 31px;}
+.funding-buttons {text-align: end;padding-bottom: 45px;}
+.location-buttons {text-align: end;padding-bottom: 45px;}
+.pro-sponsor {padding-bottom: 10px;font-size: 30px;color: #4C4C55;
+    font-weight: 500;margin-bottom: 15px;}
+.sponsor-buttons {text-align: left;padding-bottom: 33px;border-bottom: 1px solid #00000014;margin-bottom: 54px;}
+.company-info span {
+    font-size: 50px;
+    color: #4C4C55;
+    font-weight: 500;
+}
+.company-info input {
+    font-size: 12px;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border-width: 0px 0px 1px;
+    border-color: #E9E9F0;
+    padding: 12px 10px;
+}
+.company-info textarea {
+    font-size: 12px;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid #D9D5D5;
+    padding: 12px 20px;
+    margin-top: 25px;
+    resize: none;
+}
+.jack-profile {display: flex;align-items: center;justify-content: end;}
+.jack-1{margin-right: 5px;border-radius: 40px;}
+/* .jack-profile img {display: block;margin:  0 26px 0 auto;} */
+.jack-profile-buttons {
+    text-align: end;
+    margin-top: 24px;
+    /*margin-bottom: 57px;*/
+}
+.pro-sponsor-info .sponsor-sec-row {display: flex;align-items:center;}
+.add-button-more {text-align: center;margin-top: 0;border-bottom: 1px solid #00000014;padding-bottom: 35px;}
+.pro-document-attach {padding: 50px 0 70px;}
+.pro-document-1 .table td{padding: 10px 0px 0 0!important;}
+.pro-document {
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: #4C4C55;
+    font-weight: 500;
+    margin-bottom: 31px;
+}
+/* .file-ext label {text-align: center;} */
+.file-ext span{font-size: 13px;color: #8D8B8B;}
+/* .file-ext img {display: block;margin: 0 auto;} */
+
+.pro-document-attach .table td {
+    /*padding: 10px 0px 0 0;*/
+}
+/*PROJECT ADD NEW 4 PAGE CSS END*/
+
+/*CREATE NEW FUNDING CAMPAIGN PAGE CSS BEGIN*/
+.campaign-buttons {text-align: center;margin-top: 70px;}
+.campaign-buttons .dashboard-reset {padding: 12px 40px;background: #5A51DE;}
+.campaign-buttons .dashboard-save {padding: 12px 36px;background-color: #3EB565;}
+.funding-campaign-sec {padding: 50px 0 30px;}
+.campaign-sec {
+    border: 0;
+    padding: 22px 0px 60px;
+    /* border-radius: 4px; */
+}
+.campaign-project-row {padding: 30px 0 0;}
+.funding-phase-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: #4C4C55;
+    margin-bottom: 35px;
+}
+.funding-buttons {text-align: end;margin-top: 77px;}
+.funding-phase-sec {
+    padding: 22px 0px 0px;
+    margin-top: 64px;
+    border-bottom: 1px solid#96989b85;
+    border-radius: 0px;
+}
+/*CREATE NEW FUNDING CAMPAIGN PAGE CSS END*/
+
+/*FUNDING CAMPAIGN PAGE CSS BEGIN*/
+.filter-text select {font-size: 12px;font-weight: 400;color: #000;width: 100%;outline: none;border-radius: 25px;border: 0;padding: 12px 20px;}
+.filter-text-search {display: table;margin: 0 0 0 auto;}
+.filter-text-search input {font-size: 12px;font-weight: 400;color: #000;width: 92%;outline: none;border-radius: 25px;border: 0;padding: 12px 20px 12px 8px;}
+.filter-text-search input::placeholder {color: #999999;}
+.filter-text-search i {color: #999999;}
+.confirm-campaign-button {display: block;margin: 28px 0 0 auto;}
+.new-campaign-button {font-size: 14px;font-weight: 700;color: #fff;background-color: #34B55F;border-radius: 0;border: 0;padding: 12px 35px;display: inline-block;text-align: center;}
+.funding-campaign-sec .row{padding: 0 0 0;}
+.funding-campaign-table {border: 0;border-radius: 4px;}
+.campaign-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: #4C4C55;
+}
+.right-align{text-align: right;}
+.funding-campaign-table .table thead tr {background: #F2F2F2;}
+.funding-campaign-table .table tbody td {border-bottom: 1px solid #F1F1F3;text-align:left;color: #8D8B8B;}
+.for-left-td{border-top-left-radius:10px;}
+.for-right-td{border-top-right-radius: 10px;}
+.for_add_new_button .sbmt-btn{padding: 13px 70px; color: #fff; float: unset;}
+.search-module{text-align: end;position: relative;}
+.search-module input{background: transparent;
+    padding: 0px 0px 0px 10px;
+    border-width: 0px 0px 1px;
+    outline: 0;
+    font-size: 13px;
+    font-size: 14px;
+    color: #8D8B8B;
+    padding: 5px;
+    border-color: #EBE8E8;
+    padding-left: 27px;}
+    .icon-positioned{position: absolute;top: 6px;left: 125px;}
+    .icon-positioned i{font-size: 15px;}
+    .heding-aligned {padding: 0px 0px 50px; margin-top: 31px;}
+.for_add_new_button{text-align: center;}
+.group-buttons .new-campaign-button-view {font-size: 10px;font-weight: 500;color: #8D8B8B;background-color: transparent;border: 1px solid #8D8B8B;padding: 5px 15px;display: inline-block;text-align: center;border-radius: 27px;margin-right: 2px;}
+.group-buttons .new-campaign-button-active {font-size: 10px;font-weight: 500;color: #fff;background-image: linear-gradient(to bottom, #3ea99d, #2daf97, #22b48f, #23b983, #30bd74);border: 0;padding: 6px 15px;display: inline-block;text-align: center;border-radius: 27px;}
+.funding-campaign-table .table thead tr th {
+    font-size: 13px;
+    color: #4C4C55;
+    font-weight: 700;
+    /*  */
+    text-align:left;
+    padding: 26px 15px;
+}
+.show-more {text-align: center;display: block;font-size: 13px;font-weight: 400;color: #5A51DE;margin: 50px 0 0;}
+/*FUNDING CAMPAIGN PAGE CSS END*/
+
+/*PERFORMANCE 1 PAGE CSS BEGIN*/
+
+/*PERFORMANCE 1 PAGE CSS END*/
+
+/*VOTE CAMPAIGNS PAGE CSS BEGIN*/
+.funding-campaign-vote {margin: 50px 0px 0;}
+.campaign-01 {
+    font-size: 20px;
+    color: #4C4C55;
+    margin-bottom: 22px;
+    font-weight: 400;
+}
+/*VOTE CAMPAIGNS PAGE CSS END*/
+
+/*VOTE CAMAPIGNS 2 PAGE CSS BEGIN*/
+.campaign-field-text {
+    border: 0;
+    padding: 22px 0px 50px;
+}
+.campaign-field-text .campaign-buttons {margin-top: 119px;}
+.vote-sec-text {padding: 50px 0 20px;}
+/*VOTE CAMAPIGNS 2 PAGE CSS END*/
+
+/*USER MANAGEMENT PAGE CSS BEGIN*/
+.user-campaign-sec {margin: 0 100px 0;padding: 50px 0 30px;}
+.user-campaign-sec .new-campaign-button {font-size: 14px;font-weight: 700;color: #fff;background-color: #36B288;border-radius: 0;border: 0;padding: 12px 35px;display: inline-block;text-align: center;}
+.user-group-buttons .new-campaign-button-view {font-size: 10px;font-weight: 500;color: #707070;background-color: transparent;border: 1px solid #0003;padding: 5px 15px;display: inline-block;text-align: center;border-radius: 27px;margin-right: 2px;}
+.user-group-buttons .new-campaign-button-active {font-size: 10px;font-weight: 500;color: #fff;background-color: #34B55F;border: 0;padding: 6px 15px;display: inline-block;text-align: center;border-radius: 27px;}
+/*USER MANAGEMENT PAGE CSS END*/
+
+/*VOTE CAMAPIGNS 2 PAGE CSS BEGIN*/
+.transaction-type {padding: 44px 0 0;}
+.transaction-type .pro-document {margin-bottom: 0px;}
+.transaction-type-role .campaign-buttons {margin-top: 50px;text-align: end;}
+/*VOTE CAMAPIGNS 2 PAGE CSS END*/
+
+/*RAISING REQUEST PAGE CSS BEGIN*/
+.new-campaign-button-reject {font-size: 10px;font-weight: 500;color: #fff;background-color: #8D8B8B;border: 0;padding: 6px 15px;display: inline-block;text-align: center;border-radius: 27px;}
+/*RAISING REQUEST PAGE CSS END*/
+
+/*SHARE RESALE PAGE CSS BEGIN*/
+.confirm-share-button .new-campaign-button {background: #34B55F;}
+.confirm-share-button {text-align: end;margin-top: 30px;}
+.funding-offer-table {margin-top: 55px;}
+/*SHARE RESALE PAGE CSS END*/
+
+/*NOTIFICATION PAGE CSS BEGIN*/
+.confirm-notification-button {text-align: end;margin-top: 25px;}
+.confirm-notification-button .new-campaign-button {border-radius: 25px;}
+.close-icon {border: 1px solid #0003;border-radius: 50%;text-align: center;width: 25px;height: 25px;font-weight: 300;font-size: 12px;color: #0000008f;padding: 5px 0 0;}
+.filters-sec {margin: 40px 100px 0;padding: 10px 0 0;}
+.funding-notification-table {margin: 20px 0px 0;}
+.post-notif_button .dashboard-save{color: #fff;}
+.text-notificcation-box textarea {
+    font-size: 13px;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid #D9D5D5;
+    padding: 12px 15px;
+    margin-bottom: 34px;
+    margin-top: 50px;
+    resize: none;
+}
+.campaign-notification-button .dashboard-reset {padding: 12px 40px;background: #5A51DE;}
+.campaign-notification-button {text-align: center;}
+/*NOTIFICATION PAGE CSS END*/
+
+/*SETTINGS PAGE CSS BEGIN*/
+.boxes-row {margin: 50px 0 0;}
+.menu-boxes {
+    padding: 60px 10px 25px;
+    border-radius: 15px;
+    border: 1px solid #C7C7CB;
+}
+.menu-boxes h2 {text-align: center;font-size: 26px;font-weight: 700;color: #36B387;}
+.menu-boxes img {display: block;margin: 30px 0 0 auto;}
+/*SETTINGS PAGE CSS END*/
+
+/*USER MANAGEMET 2 PAGE CSS BEGIN*/
+.profile-address {margin-bottom: 45px;}
+/* .account-col-border {border-right: 1px solid #00000014;} */
+.management-profile-sec {padding: 45px 0 40px;margin-top: 30px;}
+.management-profile-sec .input-options select {width: 85%;}
+.management-profile-sec .input-options input {width: 85%;}
+.user-managements-buttons button {background: #36B387;}
+.user-managements-buttons .dashboard-reset {padding: 12px 40px;}
+.user-managements-buttons {margin: 130px 0 0 auto;display: table;}
+.management-investment-sec {margin-top: 60px;padding: 50px 0 40px;}
+.user-manage-buttons {margin: 40px 0 0 auto;display: table;}
+.user-manage-buttons .dashboard-reset {background: #34B681;padding: 12px 37px;}
+.user-manage-buttons .dashboard-save {background: #34B681;}
+.account-col-border .dashboard-reset {background: #34B681;margin-top: 18px;}
+.bank-detail-col {border-left: 1px solid #00000014;}
+.details-account-sec {margin-top: 50px;padding: 50px 0 120px;margin-bottom: 30px !important;}
+.details-text {
+    font-size: 30px;
+    font-weight: 500;
+    color: #4C4C55;
+}
+.account-field-boxes {
+    border: 0;
+    padding: 19px 10px 16px;
+    margin: 0 0 0 0;
+    border-radius: 12px;
+    border: 1px solid #C7C7CB;
+}
+.account-field-boxes p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #8D8B8B;
+    margin-bottom: 0;
+}
+.account-field-boxes span {
+    font-weight: 700;
+    font-size: 30px;
+    color: #36B387;
+    text-align: center;
+    display: block;
+    margin-top: 7px;
+}
+.dividend-sec {margin-top: 40px;}
+.Investment-portfolio-sec {margin-top: 50px;padding: 50px 0 120px;}
+/* .Investment-portfolio-sec .pr_ent {box-shadow: 0 0 4px 0px #0003;padding: 12px 0;} */
+.Investment-portfolio-sec .cgr_hd h6 {font-size: 13px;}
+.Investment-portfolio-sec .cgr_hd p {font-size: 9px;}
+.Investment-portfolio-sec .ten_percent_dsgn span {width: 45px;height: 45px;background: #36B387;display: flex;align-items: center;justify-content: center;margin: 0 auto 6px auto;}
+.Investment-portfolio-sec .bdr_ph1 p {font-size: 10px;font-weight: 400;}
+.Investment-portfolio-sec .bdr_ph1 h5 {font-size: 10px;font-weight: 700;}
+.performance-link {
+    text-align: center;
+    display: block;
+    font-size: 13px;
+    color: #36B387;
+    padding: 15px 0px;
+}
+.performance-link img {margin-left: 5px;}
+/* .performance-link:hover {text-decoration: none;color: #43425D;} */
+.Investment-portfolio-sec .ten_percent_dsgn {text-align: center;padding: 10px 0px 0 0px;float: right;}
+.country-text {position: absolute;bottom: 10px;right: 20px;}
+.country-text span {display: block;font-size: 12px;font-weight: 700;color: #fff;border: 0;padding: 5px 35px;border-radius: 25px;background-color: #00000082;}
+.scrapper_pc {position: relative;}
+.investment-row-sec {padding: 50px 0 0;}
+/* .report-shadow-box {margin: 50px 32px 0;padding: 50px 0 120px;box-shadow: 0 0 4px 0px #0003;} */
+.report-shadow-box .details-text {
+    /* margin-left: 26px; */
+    margin-bottom: 30px;
+}
+.report-shadow-box .funding-campaign-table {
+    padding: 42px 0px 30px;
+    /* margin: 0 30px 0; */
+}
+.reports-row-button .new-campaign-button-active {font-size: 10px;font-weight: 500;color: #fff;background-color: #34B55F;border: 0;padding: 6px 15px;display: inline-block;text-align: center;border-radius: 27px;}
+/*USER MANAGEMET 2 PAGE CSS END*/
+
+/*CREATE NEW REPORT PAGE CSS BEGIN*/
+/* .performance-report-sec {} */
+.report-sec-button .new-campaign-button {background-color: #5A51DE;padding: 12px 58px;border-radius: 4px;}
+.report-sec-button {text-align: center;margin: 65px 0 0;}
+.report-row-divider {margin: 80px 0 0;}
+.account-field-boxes small {font-size: 13px;font-weight: 700;color: #B3B3B3;vertical-align: text-top;}
+.report-row-divider .account-field-boxes {padding: 19px 10px 34px;}
+.developement-progress-table {margin: 80px 0px 0;padding: 40px 0 50px;}
+.developement-progress-table .campaign-buttons {margin: 0 0 20px;text-align: end;}
+/* .developement-progress-table .campaign-buttons .dashboard-reset {} */
+
+.developement-progress-table .campaign-buttons .dashboard-save {background: #C8C8CC;padding: 12px 24px;}
+.campaign-dev-text {font-size: 28px;font-weight: 400;color: #43425D;margin-bottom: 22px;margin-left: 18px;}
+.development-progress-text .table tbody td {border-bottom:0;}
+.progress-summary-report-sec {margin: 60px 0px 0;}
+.progress-summary-text {
+    font-size: 30px;
+    font-weight: 500;
+    color: #4C4C55;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+}
+.table-items-heading {border-bottom: 1px solid #0000001a;padding-bottom: 15px;font-size: 22px;color:#000000;font-weight: 400;}
+.table-items-heading span {font-size: 22px;color: #000000;font-weight: 400;}
+.progress-summary-report-sec ul {margin-top: 15px;}
+.progress-summary-report-sec li {font-size: 13px;color:#8D8B8B;font-weight: 400;padding: 3px 0 0;}
+.investment-main-border {border-bottom: 1px solid#96989b61;padding-bottom: 7px;}
+.new-doc-sec {margin: 27px 44px 0;}
+.investment-border-spacing {padding-right: 90px;}
+/*CREATE NEW REPORT PAGE CSS END*/
+
+/*CATEGORIES VIEW 1 PAGE CSS BEGIN*/
+.add-new-confirm-button .new-campaign-button {background: #36B387;padding: 12px 65px;}
+.categories-progress-view {text-align: unset;}
+.categories-progress-view .new-campaign-button-view {padding: 6px 27px;}
+.categories-progress-view .new-campaign-button-active {padding: 7px 23px;}
+/*CATEGORIES VIEW 1 PAGE CSS END*/
+
+/*COMPANIES VIEW 2 PAGE CSS BEGIN*/
+.line-center {padding-left: 38px !important;}
+/* .for_source {} */
+.hv_ac .for_algnin {margin-right: 14px;font-size: 18px;}
+.develop-prog-text .table tbody td {vertical-align: bottom;}
+/*COMPANIES VIEW 2 PAGE CSS END*/
+
+/* ui fixes */
+
+/* ui fixes */
+.new-campaign-button-grey {background: grey !important; color: #ffffff !important;}
+
+
+@media only screen and (min-width: 320px) and (max-width: 529px) {
+.develop-prog-text .table tbody td {vertical-align: bottom !important;}
+.visual-type-text select{width: auto !important;}
+.visual-type-text input{width: auto !important;}
+.develop-progress-text .input-options input {width: auto;}
+.class-img-hide {display: none;}
+.develop-prog-text .input-options select {width: auto;}
+.funding-campaign-sec {margin: 0 0 0;padding: 50px 0 0;}
+.tags-listing .tags-list-item {padding: 0 0 0 0;}
+.campaign-sec {padding: 10px 10px 30px;margin: 22px 12px 0;}
+.campaign-project-row {padding: 0 0 0;}
+.campaign-buttons {margin-top: 40px;text-align: center;}
+.campaign-buttons .dashboard-save {padding: 12px 21px;}
+.campaign-buttons .dashboard-reset {padding: 12px 43px;}
+.funding-phase-text {margin-bottom: 10px;}
+.funding-phase-sec {padding: 30px 10px 0 !important;margin-top: 30px;}
+.mobile-buttons {text-align: center;}
+.mobile-buttons .dashboard-save {padding: 12px 30px;}
+.report-row-divider .account-field-boxes {padding: 19px 10px 34px;margin-bottom: 25px;}
+.report-sec-button {margin: 40px 0 0;}
+.report-row-divider {margin: 50px 0 0;}
+.developement-progress-table {margin: 30px 20px 0;padding: 40px 0 50px;}
+.campaign-dev-text {font-size: 24px;margin-bottom: 26px;margin-left: 0;text-align: center;}
+.developement-progress-table .campaign-buttons {margin: 0 0 20px;text-align: center;}
+.progress-summary-report-sec {margin: 40px 10px 0;}
+.investment-border-spacing {padding-right: 0;}
+.table-items-heading {padding-bottom: 7px;font-size: 20px;margin-top: 40px;}
+.progress-summary-text {font-size: 25px;margin-bottom: 0;}
+.new-doc-sec {margin: 0 10px 0;}
+.pro-document {padding-bottom: 10px;font-size: 25px;margin-bottom: 5px;}
+.dataTables_filter{float: unset !important;text-align: left!important;}
+.dashboard-reset {font-size: 12px;padding: 7px 13px;margin-right: 0;}
+.filter-text select {padding: 12px 10px;}
+.filter-text-search {display: block;margin: 0 0 20px 17px;}
+.confirm-campaign-button {display: block;margin: 28px auto 40px auto;}
+/* .funding-campaign-table {padding: 22px 10px 30px;margin: 0 20px 0;} */
+.campaign-text{margin-bottom:40px;text-align: center;}
+.right-align{text-align: center;}
+#DataTables_Table_0_filter input{margin-left: 0px!important;}
+.dataTables_filter label{display: inline-block!important;justify-content: flex-start!important;}
+.group-buttons .new-campaign-button-view {padding: 5px 25px;margin-bottom: 5px;}
+.group-buttons .new-campaign-button-active {padding: 6px 22px;}
+.funding-campaign-table .table tbody td {vertical-align: inherit;}
+.confirm-notification-button {text-align: center;margin-top: 25px;margin-bottom: 45px;}
+.campaign-field-text {padding: 22px 10px 50px;margin: 0 20px 0;}
+.filters-sec {margin: 20px 0 30px;padding: 10px 0 0;}
+.pro-sec {padding: 0 10px 0;}
+.pro-info {font-size: 25px;}
+.dashboard-buttons {text-align: center;padding-bottom: 45px;margin-top: 25px;}
+.pro-sec .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-detail-sec {padding: 0 10px 0;}
+.pro-detail {font-size: 25px;}
+.pro-introduction {padding: 0 10px 0;}
+.pro-introduction .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-uploads {padding: 0 10px 0;}
+.pro-uploads .table td {padding: 10px 20px 0 0;}
+.pro-uploads .dashboard-edit {padding: 6px 22px;margin-right: 10px;margin-top: 4px;font-size: 12px;}
+.google-map {margin: 12px 0 60px;}
+.pro-location .location-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.location-buttons {text-align: center;padding-bottom: 45px;}
+.funding-buttons .dashboard-reset {padding: 13px 31px;margin-top: 25px;}
+.funding-buttons {text-align: center;margin-top: 0;}
+.dashboard-save {font-size: 12px;padding: 13px 35px;}
+.sponsor-buttons .dashboard-reset {padding: 13px 22px;}
+.sponsor-buttons {margin-bottom: 24px;}
+.company-info input {margin-bottom: 15px;}
+.jack-profile img {margin: 35px auto 0 auto;}
+.jack-profile-buttons {text-align: center;margin-top: 24px;margin-bottom: 57px;}
+.jack-profile-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.jack-profile-buttons .dashboard-edit {padding: 13px 41px;}
+.company-info textarea {margin-top: 2px;}
+.funding-buttons-reset {margin-top: 35px;}
+.new-campaign-button-reject {margin-top: 5px;padding: 6px 22px;}
+.menu-boxes {padding: 60px 10px 16px;margin: 0 0 20px 0;}
+.boxes-row {margin: 0 0 0;}
+.confirm-share-button {margin-bottom: 45px;text-align: center;}
+.sale-table {margin-bottom: 30px;}
+.user-campaign-sec {margin: 0 0 0;padding: 50px 0 30px;}
+.profile-address {margin-bottom: 10px;margin-top: 35px;font-size: 25px;}
+.management-profile-sec .input-options input {width: 100%;}
+.management-profile-sec .input-options select {width: 100%;}
+.user-managements-buttons {margin: 35px auto 0 auto;display: table;}
+.user-managements-buttons .dashboard-reset {padding: 12px 40px;margin-right: 5px;}
+.management-profile-sec {margin-bottom: 30px !important;}
+.user-manage-buttons {margin: 40px auto 0 auto;display: table;}
+.user-manage-buttons .dashboard-reset {margin-right: 5px;}
+.management-investment-sec {margin-bottom: 30px !important;}
+.account-field-boxes {margin: 0 0 20px 0;}
+.dividend-sec {margin-top: 0;}
+.details-text {font-size: 25px;margin-bottom: 30px;}
+.investment-row-sec {padding: 0 0 0;}
+.gx_pl_pr {margin: 10px 0 10px;}
+.report-shadow-box {margin: 37px 22px 0;padding: 30px 0 40px;}
+.report-shadow-box .funding-campaign-table {padding: 42px 0 30px;margin: 0 11px 0;}
+.account-col-border {border-right: 0;}
+.bank-detail-col {border-left: 0;}
+.funding-campaign-vote {margin: 50px 22px 0 !important;}
+.campaign-field-text .campaign-buttons {margin-top: 47px;}
+.dashboard-buttons{text-align: center;}
+}
+
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+.tags-list-item .tags-list-text {font-size: 18px;}
+}
+
+@media only screen and (min-width: 530px) and (max-width: 767px) {
+.develop-prog-text .table tbody td {vertical-align: bottom !important;}
+.develop-prog-text .input-options select {width: auto;}
+.develop-prog-text .table img {display: none;}
+.visual-type-text select{width: auto !important;}
+.dataTables_filter{float: unset !important;text-align: left!important;}
+.dataTables_filter label {
+    display: inline-block!important;
+    justify-content: flex-start!important;
+}
+#DataTables_Table_0_filter input{margin: 0px !important;}
+.dashboard-reset {font-size: 12px;padding: 7px 13px;margin-right: 0;}
+.campaign-text{margin-bottom:40px;text-align: center;}
+.right-align{text-align: center;}
+.visual-type-text input{width: auto !important;}
+.funding-campaign-sec {margin: 0 20px 0;padding: 50px 0 30px;}
+.campaign-sec {padding: 22px 10px 60px;margin: 0 38px 0;}
+.tags-listing .tags-list-item {padding: 0 30px 0 0;}
+.campaign-project-row {padding: 0 0 0;}
+.campaign-buttons {margin-top: 40px;text-align: center;}
+.campaign-buttons .dashboard-save {padding: 12px 21px;}
+.campaign-buttons .dashboard-reset {padding: 12px 43px;}
+.funding-phase-text {margin-bottom: 10px;}
+.funding-phase-sec {padding: 30px 10px 0 !important;margin-top: 30px;}
+.mobile-buttons {text-align: center;}
+.mobile-buttons .dashboard-save {padding: 12px 30px;}
+.report-row-divider .account-field-boxes {padding: 30px 10px 0;margin-bottom: 25px;min-height: 133px;}
+.report-sec-button {margin: 40px 0 0;}
+.report-row-divider {margin: 50px 0 0;}
+.developement-progress-table {margin: 30px 20px 0;padding: 40px 0 50px;}
+.campaign-dev-text {font-size: 24px;margin-bottom: 26px;margin-left: 0;text-align: center;}
+.developement-progress-table .campaign-buttons {margin: 0 0 20px;text-align: center;}
+.progress-summary-report-sec {margin: 40px 10px 0;}
+.investment-border-spacing {padding-right: 15px;}
+.table-items-heading {padding-bottom: 7px;font-size: 20px;margin-top: 40px;}
+.progress-summary-text {font-size: 25px;margin-bottom: 0;}
+.new-doc-sec {margin: 0 10px 0;}
+.pro-document {padding-bottom: 10px;font-size: 25px;margin-bottom: 5px;}
+.dashboard-reset {font-size: 12px;padding: 7px 13px;margin-right: 0;}
+.development-progress-text .table img {width: 20px;}
+.account-field-boxes span {font-size: 22px;margin-top: 7px;}
+.filter-text select {padding: 12px 10px;}
+.filter-text-search {display: block;margin: 0 0 0 17px;}
+.confirm-campaign-button {display: block;margin: 28px auto 40px auto;}
+/* .funding-campaign-table {padding: 22px 10px 30px;margin: 0 20px 0;} */
+.group-buttons .new-campaign-button-view {padding: 5px 25px;margin-bottom: 5px;}
+.group-buttons .new-campaign-button-active {padding: 6px 22px;}
+.funding-campaign-table .table tbody td {vertical-align: inherit;}
+.tags-list-item .tags-list-text {font-size: 20px;}
+.confirm-notification-button {text-align: center;margin-top: 25px;margin-bottom: 45px;}
+.campaign-field-text {padding: 22px 10px 50px;margin: 0 20px 0;}
+.filters-sec {margin: 20px 0 30px;padding: 10px 0 0;}
+.pro-sec {padding: 0 10px 0;}
+.pro-info {font-size: 25px;}
+.dashboard-buttons {text-align: center;padding-bottom: 45px;margin-top: 25px;}
+.pro-sec .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-detail-sec {padding: 0 10px 0;}
+.pro-detail {font-size: 25px;}
+.pro-introduction {padding: 0 10px 0;}
+.pro-introduction .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-uploads {padding: 0 10px 0;}
+.pro-uploads .table td {padding: 10px 20px 0 0;}
+.pro-uploads .dashboard-edit {padding: 6px 22px;margin-right: 10px;margin-top: 4px;font-size: 12px;}
+.google-map {margin: 12px 0 60px;}
+.pro-location .location-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.location-buttons {text-align: center;padding-bottom: 45px;}
+.funding-buttons .dashboard-reset {padding: 13px 31px;margin-top: 30px;}
+.funding-buttons {text-align: center;margin-top: 0;}
+.dashboard-save {font-size: 12px;padding: 13px 35px;}
+.sponsor-buttons .dashboard-reset {padding: 13px 22px;}
+.sponsor-buttons {margin-bottom: 24px;}
+.company-info input {margin-bottom: 15px;}
+.jack-profile img {margin: 35px auto 0 auto;}
+.jack-profile-buttons {text-align: center;margin-top: 24px;margin-bottom: 57px;}
+.jack-profile-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.jack-profile-buttons .dashboard-edit {padding: 13px 41px;}
+.company-info textarea {margin-top: 2px;}
+.funding-buttons-reset {margin-top: 35px;}
+.company-info span {font-size: 40px;}
+.new-campaign-button-reject {margin-top: 5px;padding: 6px 22px;}
+.menu-boxes {margin-bottom: 25px;}
+.boxes-row {margin: 40px 0 0;}
+.confirm-share-button {text-align: center;}
+.sale-table {margin-bottom: 30px;}
+.user-campaign-sec {margin: 0 0 0;padding: 50px 0 30px;}
+.profile-address {margin-bottom: 10px;margin-top: 35px;font-size: 20px;}
+.management-profile-sec .input-options input {width: 100%;}
+.management-profile-sec .input-options select {width: 100%;}
+.user-managements-buttons {margin: 35px auto 0 auto;display: table;}
+.user-managements-buttons .dashboard-reset {padding: 12px 40px;margin-right: 5px;}
+.management-profile-sec {margin-bottom: 30px !important;}
+.user-manage-buttons {margin: 40px auto 0 auto;display: table;}
+.user-manage-buttons .dashboard-reset {margin-right: 5px;}
+.management-investment-sec {margin-bottom: 30px !important;}
+.account-field-boxes {margin: 0 0 20px 0;}
+.dividend-sec {margin-top: 0;}
+.details-text {font-size: 25px;margin-bottom: 30px;}
+.investment-row-sec {padding: 0 0 0;}
+.gx_pl_pr {margin: 10px 0 10px;}
+.report-shadow-box {margin: 37px 22px 0;padding: 30px 0 40px;}
+.report-shadow-box .funding-campaign-table {padding: 42px 0 30px;margin: 0 11px 0;}
+.account-col-border {border-right: 0;}
+.bank-detail-col {border-left: 0;}
+.Investment-portfolio-sec .pr_ent {padding: 12px 0;margin-bottom: 25PX;}
+.funding-campaign-vote {margin: 50px 22px 0 !important;}
+.campaign-field-text .campaign-buttons {margin-top: 47px;}
+}
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
+.develop-prog-text .table tbody td {vertical-align: bottom !important;}
+.visual-type-text select{width: auto !important;}
+.develop-prog-text .table .dashboard-reset {font-size: 12px;padding: 8px 13px;}
+.develop-prog-text .table img {width: 19px !important;}
+.account-field-boxes p {font-size: 11px;}
+.funding-campaign-sec {margin: 0 20px 0;padding: 50px 0 30px;}
+.campaign-sec {padding: 22px 10px 60px;margin: 0 38px 0;}
+.tags-listing .tags-list-item {padding: 0 30px 0 0;}
+.campaign-project-row {padding: 0 0 0;}
+.campaign-buttons {margin-top: 40px;text-align: center;}
+.campaign-buttons .dashboard-save {padding: 12px 21px;}
+.campaign-buttons .dashboard-reset {padding: 12px 43px;}
+.funding-phase-text {margin-bottom: 10px;}
+.funding-phase-sec {padding: 30px 10px 0 !important;margin-top: 30px;}
+.mobile-buttons {text-align: center;}
+.mobile-buttons .dashboard-save {padding: 12px 30px;}
+.report-row-divider .account-field-boxes {padding: 19px 10px 0;margin-bottom: 25px;min-height: 100px;}
+.report-sec-button {margin: 40px 0 0;}
+.report-row-divider {margin: 50px 0 0;}
+.developement-progress-table {margin: 30px 20px 0;padding: 40px 0 50px;}
+.campaign-dev-text {font-size: 24px;margin-bottom: 26px;margin-left: 0;text-align: center;}
+.developement-progress-table .campaign-buttons {margin: 0 0 20px;text-align: center;}
+.progress-summary-report-sec {margin: 40px 10px 0;}
+.investment-border-spacing {padding-right: 15px;}
+.table-items-heading {padding-bottom: 7px;font-size: 20px;margin-top: 40px;}
+.progress-summary-text {font-size: 25px;margin-bottom: 0;}
+.new-doc-sec {margin: 0 10px 0;}
+.pro-document {padding-bottom: 10px;font-size: 25px;margin-bottom: 5px;}
+.dashboard-reset {font-size: 12px;padding: 12px 24px;margin-right: 0;}
+.development-progress-text .table img {width: 20px;}
+.account-field-boxes span {font-size: 22px;margin-top: 7px;}
+.filter-text select {padding: 12px 10px;}
+.filter-text-search {display: block;margin: 0 0 0 17px;}
+.confirm-campaign-button {display: block;margin: 28px auto 40px auto;}
+.funding-campaign-table {padding: 22px 10px 30px;margin: 0 20px 0;}
+.group-buttons .new-campaign-button-view {padding: 5px 25px;margin-bottom: 5px;}
+.group-buttons .new-campaign-button-active {padding: 6px 22px;}
+.funding-campaign-table .table tbody td {vertical-align: inherit;}
+.tags-list-item .tags-list-text {font-size: 25px;}
+.filters-sec {margin: 22px 13px 30px;padding: 10px 0 0;}
+.funding-notification-table {margin: 0 32px 0;}
+.pro-sec {padding: 0 10px 0;}
+.pro-info {font-size: 25px;}
+.dashboard-buttons {text-align: center;padding-bottom: 45px;margin-top: 25px;}
+.pro-sec .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-detail-sec {padding: 0 10px 0;}
+.pro-detail {font-size: 25px;}
+.pro-introduction {padding: 0 10px 0;}
+.pro-introduction .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-uploads {padding: 0 10px 0;}
+.pro-uploads .table td {padding: 10px 20px 0 0;}
+.pro-uploads .dashboard-edit {padding: 11px 32px;margin-right: 10px;margin-top: 4px;font-size: 12px;}
+.google-map {margin: 12px 0 60px;}
+.pro-location .location-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.location-buttons {text-align: center;padding-bottom: 45px;}
+.funding-buttons .dashboard-reset {padding: 13px 31px;margin-top: 30px;}
+.funding-buttons {text-align: center;margin-top: 0;}
+.dashboard-save {font-size: 12px;padding: 13px 35px;}
+.sponsor-buttons .dashboard-reset {padding: 13px 22px;}
+.sponsor-buttons {margin-bottom: 24px;}
+.company-info input {margin-bottom: 15px;}
+.jack-profile img {margin: 35px auto 0 auto;}
+.jack-profile-buttons {text-align: center;margin-top: 24px;margin-bottom: 57px;}
+.jack-profile-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.jack-profile-buttons .dashboard-edit {padding: 13px 41px;}
+.company-info textarea {margin-top: 2px;}
+.funding-buttons-reset {margin-top: 35px;}
+.company-info span {font-size: 40px;}
+.new-campaign-button-reject {padding: 6px 25px;margin-top: 5px;}
+.menu-boxes {padding: 60px 10px 16px;margin: 0 0 0 0;}
+.sale-table {margin-bottom: 30px;}
+.user-campaign-sec {margin: 0 0 0;padding: 50px 0 30px;}
+.profile-address {margin-bottom: 10px;margin-top: 35px;font-size: 20px;}
+.management-profile-sec .input-options input {width: 100%;}
+.management-profile-sec .input-options select {width: 100%;}
+.user-managements-buttons {margin: 35px auto 0 auto;display: table;}
+.user-managements-buttons .dashboard-reset {padding: 12px 40px;margin-right: 5px;}
+.management-profile-sec {margin-bottom: 30px !important;padding: 10px 17px 40px;}
+.user-manage-buttons {margin: 40px auto 0 auto;display: table;}
+.user-manage-buttons .dashboard-reset {margin-right: 5px;}
+.management-investment-sec {margin-bottom: 30px !important;margin-top: 0;padding: 10px 17px 40px;}
+.account-field-boxes {margin: 0 0 20px 0;}
+.dividend-sec {margin-top: 0;}
+.details-text {font-size: 25px;margin-bottom: 30px;}
+.investment-row-sec {padding: 0 0 0;}
+.gx_pl_pr {margin: 10px 0 10px;}
+.report-shadow-box {margin: 37px 22px 0;padding: 30px 0 40px;}
+.report-shadow-box .funding-campaign-table {padding: 42px 0 30px;margin: 0 32px 0;}
+.account-col-border {border-right: 0;}
+.bank-detail-col {border-left: 0;}
+.Investment-portfolio-sec .pr_ent {padding: 12px 0;margin-bottom: 25PX;min-height: 260px;}
+.details-account-sec {margin-top: 0;padding: 50px 17px 120px;margin-bottom: 30px !important;}
+/* .class-hide {display: none;} */
+/* .class-show {display: block;margin-top: 0;} */
+.funding-campaign-vote {margin: 50px 22px 0 !important;}
+}
+
+@media only screen and (min-width:992px) and (max-width: 1199px) {
+.for-centered-button .dashboard-reset {color: #8D8B8B;padding: 12px 41px!important;margin-right: 10px;}
+.campaign-buttons-1 .dashboard-reset{padding: 10px 40px;}
+.account-after ::after{right: 0px!important;}
+.account-af::after{right: 5px !important;}
+.user-mng-buttons .dashboard-reset {
+    padding: 10px 35px;
+}
+.document-footer .dashboard-reset {
+    padding: 10px 40px;
+}
+
+.campaign-field-text .campaign-buttons .dashboard-reset {padding: 11px 32px !important;}
+.develop-prog-text .table tbody td {vertical-align: bottom !important;}
+.visual-type-text select{width: auto !important;}
+.develop-prog-text .table .dashboard-reset {font-size: 12px;padding: 8px 13px;}
+.funding-campaign-sec {margin: 0 20px 0;padding: 50px 0 30px;}
+.campaign-sec {padding: 22px 10px 60px;margin: 0 38px 0;}
+.tags-listing .tags-list-item {padding: 0 30px 0 0;}
+.campaign-project-row {padding: 0 0 0;}
+.campaign-buttons {margin-top: 40px;text-align: center;}
+.campaign-buttons .dashboard-save {padding: 12px 21px;}
+.campaign-buttons .dashboard-reset {padding: 12px 43px;}
+.funding-phase-text {margin-bottom: 10px;}
+.funding-phase-sec {padding: 30px 10px 30px !important;margin-top: 30px;}
+.mobile-buttons {text-align: center;}
+.mobile-buttons .dashboard-save {padding: 12px 30px;}
+.account-field-boxes span {font-size: 25px;margin-top: 7px;}
+.report-row-divider .account-field-boxes {min-height: 133px;padding: 26px 10px 0;}
+.development-progress-text .table img {width: 20px;}
+.dashboard-reset {font-size: 14px;padding: 10px 30px;margin-right: 2px;}
+.input-options select {font-size: 12px;padding: 12px 0px 12px 7px;}
+.investment-border-spacing {padding-right: 30px;}
+.filter-text select {padding: 12px 10px;}
+.filter-text-search {display: block;margin: 0 0 0 17px;}
+.confirm-campaign-button {display: block;margin: 28px auto 40px auto;}
+.funding-campaign-table {padding: 22px 10px 30px;margin: 0 20px 0;}
+.group-buttons .new-campaign-button-view {padding: 5px 25px;margin-bottom: 5px;}
+.group-buttons .new-campaign-button-active {padding: 6px 22px;}
+.funding-campaign-table .table tbody td {vertical-align: inherit;}
+.tags-list-item .tags-list-text {font-size: 22px;}
+.v_campaigns .dashboard-reset {
+    padding: 12px 40px;
+    margin-right: 10px;
+}
+.filters-sec {margin: 22px 13px 30px;padding: 10px 0 0;}
+.funding-notification-table {margin: 0 32px 0;}
+.pro-sec {padding: 0 10px 0;}
+.pro-info {font-size: 25px;}
+.dashboard-buttons {text-align: center;padding-bottom: 45px;margin-top: 25px;}
+.pro-sec .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-detail-sec {padding: 0 10px 0;}
+.pro-detail {font-size: 25px;}
+.pro-introduction {padding: 0 10px 0;}
+.pro-introduction .dashboard-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.pro-uploads {padding: 0 10px 0;}
+.pro-uploads .table td {padding: 10px 20px 0 0;}
+.pro-uploads .dashboard-edit {padding: 7px 22px;margin-right: 10px;margin-top: 4px;font-size: 12px;}
+.pro-uploads .dashboard-reset {font-size: 12px;padding: 8px 14px;margin-right: 2px;width: 100%;
+    margin-bottom: 8px;}
+
+.pro-location .location-buttons .dashboard-reset {font-size: 12px;padding: 13px 31px;margin-right: 0;}
+.location-buttons {text-align: center;padding-bottom: 45px;}
+.funding-buttons .dashboard-reset {padding: 13px 31px;font-size: 12px;}
+.for-alignment{margin-top: 50px!important;}
+.funding-buttons {text-align: center;margin-top: 30px;padding-bottom: 10px;}
+.dashboard-save {font-size: 12px;padding: 13px 35px;}
+.attached-1 {padding: 12px 17px!important;}
+.sponsor-buttons .dashboard-reset {padding: 13px 22px;}
+.sponsor-buttons {margin-bottom: 24px;}
+.company-info input {margin-bottom: 15px;}
+.jack-profile img {margin: 35px auto 0 auto;}
+.jack-profile-buttons {text-align: center;margin-top: 24px;margin-bottom: 57px;}
+.jack-profile-buttons .dashboard-reset {font-size: 12px;padding: 13px 13px!important;margin-right: 0;}
+.jack-profile-buttons .dashboard-edit {padding: 13px 41px;}
+.company-info textarea {margin-top: 2px;}
+.funding-buttons-reset {margin-top: 35px;}
+.company-info span {font-size: 40px;}
+.new-campaign-button-reject {padding: 6px 25px;margin-top: 5px;}
+.menu-boxes {padding: 60px 10px 16px;margin: 0 0 0 0;}
+.menu-boxes h2 {font-size: 22px;}
+.sale-table {margin-bottom: 30px;}
+.user-campaign-sec {margin: 0 0 0;padding: 50px 0 30px;}
+.profile-address {margin-bottom: 10px;margin-top: 35px;font-size: 20px;}
+.management-profile-sec .input-options input {width: 100%;}
+.management-profile-sec .input-options select {width: 100%;}
+.user-managements-buttons {margin: 35px auto 0 auto;display: table;}
+.user-managements-buttons .dashboard-reset {padding: 12px 40px;margin-right: 5px;}
+.management-profile-sec {margin-bottom: 30px !important;padding: 10px 17px 40px;}
+.user-manage-buttons {margin: 40px auto 0 auto;display: table;}
+.user-manage-buttons .dashboard-reset {margin-right: 5px;}
+.management-investment-sec {margin-bottom: 30px !important;margin-top: 0;padding: 10px 17px 40px;}
+.account-field-boxes {margin: 0 0 20px 0;min-height: 132px;}
+.dividend-sec {margin-top: 0;}
+.details-text {font-size: 25px;margin-bottom: 30px;}
+.investment-row-sec {padding: 0 0 0;}
+.gx_pl_pr {margin: 10px 0 10px;}
+.report-shadow-box {margin: 37px 22px 0;padding: 30px 0 40px;}
+.report-shadow-box .funding-campaign-table {padding: 42px 0 30px;margin: 0 34px 0;}
+.account-col-border {border-right: 0;}
+.bank-detail-col {border-left: 0;}
+.Investment-portfolio-sec .pr_ent {padding: 12px 0;margin-bottom: 25PX;min-height: 260px;}
+.details-account-sec {margin-top: 0;padding: 50px 17px 120px;margin-bottom: 30px !important;}
+/* .class-hide {display: none;} */
+/* .class-show {display: block;margin-top: 0;} */
+.funding-campaign-vote {margin: 50px 22px 0 !important;}
+.icon-positioned{left: 15px;}
+}
+
+@media only screen and (min-width:1260px) and (max-width: 1365px) {
+.group-buttons .new-campaign-button-active {padding: 5px 10px;margin: 5px 0 0;}
+.group-buttons .new-campaign-button-view {padding: 3px 12px;margin-right: 2px;}
+.pro-uploads .dashboard-reset {margin-bottom: 9px;width: 42%;padding: 12px;}
+.new-campaign-button-reject {padding: 4px 11px;margin-top: 5px;}
+.funding-campaign-table .table tbody td {vertical-align: middle;}
+.menu-boxes h2 {font-size: 22px;}
+.group-buttons .new-campaign-button-active {margin-top: 5px;}
+/* .class-hide {display: none;} */
+.class-show {display: block;margin-top: 30px;}
+.visual-type-text select{width: auto !important;}
+}
+
+@media only screen and (min-width:1366px) and (max-width: 1439px) {
+    .pro-uploads .dashboard-reset {
+        margin-bottom: 9px;
+        padding: 8px 12px;
+        width: 42%;
+        text-align: center;
+        font-size:13px;
+        border-radius: 30px;
+    }
+.group-buttons .new-campaign-button-active {margin-top: 5px;}
+/* .funding-campaign-table .table tr td{vertical-align: middle;} */
+/* .visual-type-text select{width: auto !important;} */
+}
+@media only screen and (min-width: 1400px) {
+    .icon-positioned{left: 142px;}
+    /* .align-new{margin-right:41px;} */
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1599px){
+.pro-uploads .dashboard-reset {font-size: 13px;padding: 10px 18px;width: 42%;}
+.pro-uploads .dashboard-edit {font-size: 12px;padding: 11px 29px;}
+.group-buttons .new-campaign-button-active {margin-top: 5px;}
+.funding-campaign-table .table tbody td {vertical-align: middle;}
+.develop-prog-text .table tbody td {vertical-align: bottom !important;}
+.Investment-portfolio-sec .pr_ent {min-height: 236px;}
+}
+
+@media only screen and (min-width: 1600px) {
+.funding-campaign-table .table tbody td {vertical-align: middle;}
+.pro-uploads .dashboard-reset {margin-bottom: 9px;width: 42%;padding: 12px;}
+.icon-positioned {left: 207px;}
+.align-new {margin-right: 65px;}
+}
+
+@media only screen and (min-width: 1680px) and (max-width: 1919px){
+.funding-campaign-table .table tbody td {vertical-align: middle;}
+.pro-uploads .dashboard-reset {margin-bottom: 9px;width: 42%;padding: 12px;}
+}
+@media only screen and (min-width: 1920px) and (max-width: 2200px){
+.pro-uploads .dashboard-reset {margin-bottom: 9px;width: 40%;padding: 12px;}
+}
+
+@media only screen and (min-width: 2560px) {
+.funding-campaign-table .table tbody td {vertical-align: middle;}
+}
+
+/* redesign css */
+/* .for-wd-1{
+    padding: 0px 0px 60px;
+} */
+.for_revert .table thead tr th {
+    font-size: 13px;
+    color: #4C4C55;
+    font-weight: 700;
+    /*  */
+    text-align:left;
+    padding: 26px 10px;
+}
+.for-color{color:#8D8B8B!important;}
+.add-button-main .dashboard-save{color: #fff;}
+.jack-profile-buttons .dashboard-reset {
+    padding: 12px 26px;
+    width: 100px;
+}
+.for-alignment{margin-top: 55px;}
+.for-adding-new-project-button{display: flex;justify-content: end;}
+.pro-document-attach input{font-size: 12px;
+    font-weight: 400;
+    color: #8D8B8B;
+    width: 100%;
+    outline: none;
+    border: 1px solid #E9E9F0;
+    padding: 12px 10px;
+    border-width: 0px 0px 1px;}
+    .pro-document-attach label{
+        display: block;
+        font-weight: 500;
+        color: #4C4C55;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+   .for-button-save-main{margin-top: 20px;}
+   .attached-1 {
+    padding: 9px  25px;
+    border: 1px solid transparent;}
+    .tick-1 i {
+        margin-right: 7px;
+        display: inline;
+    }
+    .pro-document-1 .attached-1{padding: 8px 25px;}
+.for-adding-new-project-button .dashboard-save{color: #fff;}
+.dashboard-save:hover{background-image: linear-gradient(to top, #3ea99d, #2daf97, #22b48f, #23b983, #30bd74);}
+.campaign-buttons-1{float: right;}
+.funding-phase-sec2 {
+    border-bottom: 1px solid#96989b85;
+    border-radius: 0px;
+}
+.for-centered-button{display: flex; justify-content: center;}
+.for-centered-button .dashboard-save{color: #fff;}
+.for-centered-button .dashboard-reset {
+    color: #8D8B8B;
+    padding: 12px 70px;
+}
+.edit-save-sec-1{padding: 60px 0px;}
+.tags-list-text-1 {
+    color: #8D8B8B;
+    font-size: 25px;
+}
+.tags-list-text-2{
+    font-size: 25px;
+    color: #4C4C55;
+}
+.tags-list-text-2 {color:#4C4C55!important;}
+.tags-list-text-1{color:#8D8B8B!important;}
+.for-border-bt{border-bottom: 1px solid#96989b85;}
+.for-add-new-1 .sbmt-btn {
+    padding: 13px 50px;
+    text-transform: none;
+}
+.fund-heding {
+    font-size: 30px;
+    color: #4C4C55;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+.fund-heding-2 {
+    color: #8D8B8B;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.fund-heding-3{color: #8D8B8B;
+    font-size: 20px;margin-bottom: 30px;}
+.report_button{display: flex;
+    justify-content: center;
+    margin: 60px 0px 0px;}
+.show-more {
+    color: #0864B1;
+}
+.for-strong-color strong{color: #4C4C55;}
+.v_campaigns {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0px;
+}
+.user-prof {
+    font-size: 25px;
+    color: #4C4C55;
+    font-weight: 500;
+}
+.user-mng-buttons {
+    float: right;
+    padding: 70px 0px;
+}
+/*.account-after ::after {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    width: 1px;*/
+/*    height: 470px;*/
+/*    top: 14px;*/
+/*    right: 17px;*/
+/*    background: #70707069;*/
+/*}*/
+.for-margin{margin: 0px;}
+.for-bdr{border-bottom: 1px solid #96989b7a; border-radius: 0px;}
+/* .account-after{position: relative;} */
+/* .for-bdr{position: relative;} */
+.inv-meth{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;}
+    .inv-meth .dashboard-save {
+        padding: 13px 50px;
+    }
+    /* .account-af{position: relative;} */
+    .account-af::after {
+        content: "";
+        position: absolute;
+        width: 1px;
+        height: 570px;
+        top: 28px;
+        right: 17px;
+        background: #70707069;
+    }
+    .for-mng-border {
+        border-bottom: 1px solid#C7C7CB;
+    }
+    .document-footer {
+        float: right;
+        padding: 60px 0px;
+    }
+/* .for-end{display: flex; align-items: flex-end;} */
+/* redesign css end */
+
+.for-custom-width{width: 79%!important;}
+.custom-textarea{width: 95%!important;}
+.custom-table{width: 95%!important;}
+.for_camp_button .sbmt-btn{padding: 13px 13px; color: #fff;float: unset;}
+.for-ct-new{text-align: center;}
+.for-ct-new .sbmt-btn {padding: 13px 73px;float: unset;color: #fff;}
+.for-new-add .sbmt-btn{padding:13px 60px; color: #fff;}
+.padding-set .sbmt-btn{padding: 13px 30px;}
+.c-icon{vertical-align: super;}
+.pro-ducment-1 .table td{padding: 10px 0px 0px 0px;}
+.document-footer .dashboard-save {
+    padding: 13px 52px;
+}
+.tb-button{padding: 0px 0px 5px!important;text-align: right!important;}
+.switch-button{text-align: end;}
+.switch-button a{color:#3CAE93;}
+.switch-btn{padding: 13px 37px;
+    border: 1px solid #3CAE93;
+    color: #3CAE93;
+    border-radius: 30px;
+    font-weight: bold;}
+    /* .tabs-main .nav-tabs .nav-link.active {
+        color: #8D8B8B;
+        border-bottom: 1px solid #000;
+        border-width: 0px 0px 1px;
+        padding: 13px 31px 13px;
+        font-size: 13px;
+        transition: 0.6s all ease-in-out;
+        background: transparent!important;
+    }
+    .tabs-main .nav-tabs .nav-link {
+        padding: 13px 31px 13px;
+        color: #8D8B8B!important;
+        border: 1px transparent;
+        border-top-right-radius: 8px;
+        border-top-left-radius: 8px;
+        font-size: 13px;
+        background-color: none;
+        font-weight: 500;
+        display: inline-block;
+        text-align: center;
+        width: 155px;
+    } */
+    .tabs-main .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+       border: unset!important;
+    }
+    .tabs-main .nav-tabs{position: relative;margin-bottom: 70px;}
+    /* .tabs-main .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active:after {content: ""; position: absolute;bottom: 0px;width: 100%;background-color:#36B387;height: 2px;left: 0;} */
+    .tabs-main .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{color: #8D8B8B!important;background-image:unset;border-top-right-radius: unset;
+        border-top-left-radius:unset;font-size: 13px;}
+    .tabs-main .nav-tabs .nav-link{padding: 0px 0px 20px 0px; color: #8D8B8B!important;border:unset;border-top-right-radius: 8px;border-top-left-radius: 8px;font-size: 13px;background-color: unset!important; font-weight: 500;display: inline-block;text-align: center; width: 170px;position: relative;transition: 0.6s all ease-in-out;margin-right: 50px;}
+    .tabs-main .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active::after {
+        content: "";
+        height: 2px;
+        background-color:#36B387;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        z-index: 1200;
+        bottom: 0px;
+        transition: all .6s linear;
+    }
+   .nav-link{position: relative;}
+   .buy-shares-table .table thead tr {
+    background: #F2F2F2;
+}
+   .dataTables_filter{
+       text-align: right;
+       float: right;
+   }
+.dataTables_filter label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dataTables_filter label input{
+    width: 165px;
+}
+
+.browse label{
+    padding: 10px;
+    display: table;
+}
+
+.browse input[type="file"] {
+    display: none;
+}
+
+.cross-sign{
+    cursor: pointer;
+    border: 2px solid #8d8b8b;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 25px;
+    color: #8d8b8b;
+}
+
+.dataTables_wrapper .dataTable th.sorting_asc, .dataTables_wrapper .dataTable td.sorting_asc{
+    color: #22b68a !important;
+    background: url('../../../images/investor/sort_asc.png') no-repeat center right;
+}
+.dataTables_wrapper .dataTable th.sorting_desc, .dataTables_wrapper .dataTable td.sorting_desc{
+    color: #22b68a !important;
+    background: url('../../../images/investor/sort_desc.png') no-repeat center right;
+}
+
+.dataTables_wrapper .dataTables_paginate .pagination .page-item.active > .page-link{
+    background: #22b788;
+}
+#DataTables_Table_0_wrapper .row:nth-child(3){margin:20px 0px !important;}
+/* .input-options select:focus{color: #000;} */
+.select-black{color: #000!important;}
+#DataTables_Table_0_filter input {margin-left: 10px;}
+/* .input-options select option:checked{color: #000;} */
+
+.w-85{
+    width: 85%;
+}
+
+.c_alert{
+    background-image: linear-gradient(to bottom, #3ea99d, #2daf97, #22b48f, #23b983, #30bd74);
+}
+
+button[type="submit"]:disabled {
+    background: #cccccc !important;
+}
+
+.color-green{
+    color: #36B387 !important;
+}
+
+.dataTables_length label{
+    display: flex;
+    align-items: center;
+}
+.dataTables_length select{
+    width: 12%;
+    margin-right: 12px;
+}
+
+.tabs-main .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active::after {
+    content: "";
+    height: 2px;
+    background-color: #36B387;
+    position: absolute;
+    width: 100%;
+    left: 0;
+     /*z-index: 1200;*/
+     z-index: 1;
+    bottom: 0px;
+    transition: all .6s linear;
+}
+
+.campaign-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: #4C4C55;
+    margin-bottom: 40px;
+}
+
+.tabs-main .nav-tabs {
+    position: relative;
+    margin-bottom: 70px;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #E4E6EF;
+}
+
+.buy-shares-table .table thead tr th {
+    background: #F2F2F2;
+    text-align: left;
+}
+
+.group-buttons .buy-view-btn {
+    font-size: 10px;
+    font-weight: 500;
+    color: #3CAE93;
+    background-color: transparent;
+    border: 1px solid #3CAE93;
+    padding: 4px 22px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 27px;
+    margin-right: 2px;
+}
+
+.down-report {
+    background-color: #36B387;
+    border: 1px solid #36B387;
+    padding: 20px 15px 20px;
+    border-radius: 12px;
+    color: #fff;
+    margin-bottom: 15px;
+    min-height: 118px;
+}
+
+.listed-box {
+    display: flex;
+}
+.listed-image {
+    margin-right: 18px;
+}
+.listed-image img {
+    border-radius: 8px;
+    width: 158px;
+}
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.for-edit-drop {
+    display: flex;
+    align-items: end;
+}
+.selling-shares-button .sbmt-btn {
+    padding: 13px 40px;
+    color: #fff;
+    text-transform: capitalize;
+    float: unset;
+}
+
+/*uploader image START*/
+.upload__inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+.upload__img-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+}
+.upload__img-box {
+    width: 100px;
+    padding: 0 10px;
+    margin-bottom: 12px;
+}
+.upload__img-close {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+    line-height: 24px;
+    z-index: 1;
+    cursor: pointer;
+}
+.upload__img-close:after {
+    content: "\f00d";
+    font: normal normal normal 14px/1 FontAwesome;
+    /*font-size: 14px;*/
+    color: white;
+}
+.img-bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding-bottom: 100%;
+}
+/*multiple image uploader END*/
+
+.group-buttons .buy-pending-btn {
+    font-size: 10px;
+    font-weight: 500;
+    color: gray;
+    background-color: transparent;
+    border: 1px solid gray;
+    padding: 4px 17px;
+    font-weight: 600;
+    display: inline-block;
+    text-align: center;
+    border-radius: 27px;
+    margin-right: 2px;
+}
+
+.group-buttons .buy-rejected-btn {
+    font-size: 10px;
+    font-weight: 500;
+    color: red;
+    background-color: transparent;
+    border: 1px solid red;
+    padding: 4px 16px;
+    font-weight: 600;
+    display: inline-block;
+    text-align: center;
+    border-radius: 27px;
+    margin-right: 2px;
+}
+
+.buy-accept-btn {
+    font-size: 10px;
+    font-weight: 500;
+    color: #3CAE93;
+    background-color: transparent;
+    border: 1px solid #3CAE93;
+    padding: 4px 14px;
+    font-weight: 600;
+    display: inline-block;
+    text-align: center;
+    border-radius: 27px;
+    margin-right: 2px;
+}
+
+.report-display {
+    text-align: end;
+    width: 82%;
+    float: right;
+    border-width: 0px 0px 1px;
+    outline: 0;
+    border-color: #0000001a;
+}
+
+.report-display:read-only {
+    color: #000000;
+    font-weight: 600;
+    border-width: 0px 0px 0px;
+}
+
+.br-btn label {
+    display: inline-block;
+    padding: 9px 42px;
+}
+
+.mb-60{
+    margin-bottom: 60px !important;
+}
+.pt-37{
+    padding-top: 37px !important;
+}
+
+.center-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/*Performance Loader*/
+.progress-loader .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background-color: #ffffff; */
+    /* margin: 0 20px; */
+    width: 100%;
+    height: 350px;
+    border-radius: 0;
+    border: 0px solid transparent;
+    /* box-shadow: 0 10px 20px -10px rgb(0 0 0 / 20%); */
+}
+
+.progress-loader .card .percent {
+    position: relative;
+}
+
+.progress-loader .card svg {
+    position: relative;
+    width: 210px;
+    height: 210px;
+    transform: rotate(-90deg);
+}
+
+.progress-loader .card svg circle {
+    width: 100%;
+    height: 100%;
+    fill: none;
+    stroke: #f0f0f0;
+    stroke-width: 10;
+    stroke-linecap: round;
+}
+
+.progress-loader .card svg circle:last-of-type {
+    stroke-dasharray: 625px;
+    stroke-dashoffset: calc(625px - (625px * var(--percent)) / 100);
+    stroke: #3498db;
+}
+
+.progress-loader .card .number {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.progress-loader .card .number h3 {
+    font-weight: 200;
+    font-size: 2.5rem;
+}
+
+.progress-loader .card .number h3 span {
+    font-size: 2rem;
+}
+
+.progress-loader .card .title h2 {
+    margin: 25px 0 0;
+}
+
+.progress-loader.planning .card:nth-child(1) svg circle:last-of-type {
+    stroke: #5A51DE;
+}
+.progress-loader.construction .card:nth-child(1) svg circle:last-of-type {
+    stroke: #36B387;
+}
+.progress-loader.operation .card:nth-child(1) svg circle:last-of-type {
+    stroke: #9B59B6;
+}
+
+.progress-loader.planning .card:nth-child(2) svg circle:last-of-type {
+    stroke: #5A51DE;
+}
+
+.progress-loader.construction .card:nth-child(2) svg circle:last-of-type {
+    stroke: #36B387;
+}
+
+.progress-loader.operation .card:nth-child(2) svg circle:last-of-type {
+    stroke: #9B59B6;
+}
+.icon-planning {
+    color: #5A51DE;
+    margin-right: 5px;
+}
+.icon-construction {
+    color: #36B387;
+    margin-right: 5px;
+}
+.icon-operation {
+    color: #9B59B6;
+    margin-right: 5px;
+}
+
+.c_alert{
+    color: #ffffff;
+}
+
+
+
+/*Add Project Wizard*/
+
+content {
+    width: 100%;
+    margin: 0 auto 50px;
+}
+.content__title {
+    margin-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+.content__title--m-sm {
+    margin-bottom: 10px;
+}
+.multisteps-form__progress {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+}
+.multisteps-form__progress-btn {
+    transition-property: all;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    position: relative;
+    padding-top: 36px;
+    color: lightgrey;
+    text-indent: -9999px;
+    border: none;
+    background-color: transparent;
+    outline: none !important;
+    cursor: pointer;
+}
+@media (min-width: 500px) {
+    .multisteps-form__progress-btn {
+        text-indent: 0;
+    }
+}
+.multisteps-form__progress-btn:before {
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    display: block;
+    width: 23px;
+    height: 23px;
+    content: "";
+    transform: translateX(-50%);
+    transition: all 0.15s linear 0s,
+    transform 0.15s cubic-bezier(0.05, 1.09, 0.16, 1.4) 0s;
+    border: 5px solid currentColor;
+    border-radius: 50%;
+    background-color: #fff;
+    box-sizing: border-box;
+    z-index: 3;
+}
+.multisteps-form__progress-btn:after {
+    position: absolute;
+    top: 5px;
+    left: calc(-50% - 13px / 2);
+    transition-property: all;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    display: block;
+    width: 100%;
+    height: 2px;
+    content: "";
+    background-color: #000;
+    z-index: 1;
+}
+.multisteps-form__progress-btn:first-child:after {
+    display: none;
+}
+.multisteps-form__progress-btn.js-active {
+    color: #3CAC97;
+}
+.multisteps-form__progress-btn.js-active:before {
+    transform: translateX(-50%) scale(1.2);
+}
+.multisteps-form__form {
+    position: relative;
+}
+.multisteps-form__panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+.multisteps-form__panel.js-active {
+    height: auto;
+    opacity: 1;
+    visibility: visible;
+}
+.multisteps-form__panel[data-animation="scaleOut"] {
+    transform: scale(1.1);
+}
+.multisteps-form__panel[data-animation="scaleOut"].js-active {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transform: scale(1);
+}
+.multisteps-form__panel[data-animation="slideHorz"] {
+    left: 50px;
+}
+.multisteps-form__panel[data-animation="slideHorz"].js-active {
+    transition-property: all;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0.2, 1.13, 0.38, 1.43);
+    transition-delay: 0s;
+    left: 0;
+}
+.multisteps-form__panel[data-animation="slideVert"] {
+    top: 30px;
+}
+.multisteps-form__panel[data-animation="slideVert"].js-active {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    top: 0;
+}
+.multisteps-form__panel[data-animation="fadeIn"].js-active {
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+}
+.multisteps-form__panel[data-animation="scaleIn"] {
+    transform: scale(0.9);
+}
+.multisteps-form__panel[data-animation="scaleIn"].js-active {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transform: scale(1);
+}
+.multisteps-form__progress {
+    padding: 24px 0px;
+}
